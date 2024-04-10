@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dynoayush
+- 👋 Hi, I’m Ayush Majumder
 - 👀 I’m interested in learning and exploring new things 
 - 🌱 I’m currently learning Basic Java,DSA,AI and Ml, Full Stack Development etc....
 <!---
